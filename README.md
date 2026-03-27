@@ -56,7 +56,3 @@ Love playing and creating games. I have 4+ years of industry experience as a UE 
 ## Portfolio
 
 **[Open Portfolio](https://drive.google.com/drive/folders/1KQNQnXp7yMeabNYwyk9jyQALFRu99xdI?usp=sharing)**
-
----
-
-<p align="center"><i>Building game systems that survive real production.</i></p>
